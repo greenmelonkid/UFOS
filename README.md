@@ -17,6 +17,7 @@ There are search boxes for the date, city, state, country, and shape. ![filter s
 
 If you have all of the criteria, it would be beneficial to filter by all criteria, but if you only know the date 
 and state for example, that's ok! 
+
 ![filter search bars with state1](https://user-images.githubusercontent.com/99292945/169913302-6dd22297-289a-45eb-802d-4ed78a08feb4.png) You are able to search with either one or up to five search criteria. Once 
 you've entered your criteria, you press enter and all results matching your search will come up! 
 
