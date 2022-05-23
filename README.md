@@ -13,12 +13,13 @@ about your UFO sighting, there are multiple filters to narrow it down.
 
 When opening the webpage, you'll notice a list of sightings organized by date. Because the list is so long, you 
 will see filters on your left where you can enter any criteria you know in the search bar to see your results. 
-There are search boxes for the date, city, state, country, and shape. 
+There are search boxes for the date, city, state, country, and shape. ![filter search bars](https://user-images.githubusercontent.com/99292945/169913282-e32555bd-4fe0-47c9-8ce5-954045a9140a.png)
 
 If you have all of the criteria, it would be beneficial to filter by all criteria, but if you only know the date 
-and state for example, that's ok! You are able to search with either one or up to five search criteria. Once 
-you've entered your criteria, you press enter and all results matching your search will come up! 
+and state for example, that's ok! 
 
+![filter search bars with state1](https://user-images.githubusercontent.com/99292945/169913302-6dd22297-289a-45eb-802d-4ed78a08feb4.png) You are able to search with either one or up to five search criteria. Once 
+you've entered your criteria, you press enter and all results matching your search will come up! 
 
 ## Summary
 
